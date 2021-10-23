@@ -1,1 +1,1 @@
-const c=100;
+const d=100;
